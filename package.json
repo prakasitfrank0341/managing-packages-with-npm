@@ -1,4 +1,5 @@
 {
+	"keywords": ["freecodecamp"],
 	"description": "Project for learning npm",
 	"author": "Prakasit Frank",
 	"name": "fcc-learn-npm-package-json",
